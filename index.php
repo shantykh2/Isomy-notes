@@ -681,7 +681,7 @@ $result = $stmt->get_result();
         <div class="screensaver-content">
             <div class="time-display" id="timeDisplay">00:00:00</div>
             <div class="date-display" id="dateDisplay">Memuat...</div>
-            <h1 class="screensaver-title">✿ Klan's Community Notes ✿</h1>
+            <h1 class="screensaver-title">✿ Isomy Notes ✿</h1>
             <p class="screensaver-subtitle">Bagikan ceritamu dengan dunia</p>
             <button class="screensaver-button" id="exitScreensaver">Klik untuk Kembali</button>
         </div>
