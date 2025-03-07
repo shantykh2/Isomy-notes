@@ -538,7 +538,7 @@ $result = $stmt->get_result();
     
     <div class="container">
         <div class="header">
-            <h1><i class="fas fa-heart"></i> Klan's Community Notes <i class="fas fa-heart"></i></h1>
+            <h1><i class="fas fa-heart"></i> Isomy Notes <i class="fas fa-heart"></i></h1>
             
             <div class="navigation">
                 <?php if (isset($_SESSION['user_id'])): ?>
